@@ -40,4 +40,4 @@ Este sitio está diseñado para reflejar la filosofía de **Sarah Ortiz**, una a
 
 ##🚀 **Cómo Visualizar el Proyecto**
 
-Puedes acceder al proyecto directamente desde este [enlace](#).
+Puedes acceder al proyecto directamente desde este [enlace](https://sarah-ortiz.netlify.app/).
