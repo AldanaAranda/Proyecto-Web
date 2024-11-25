@@ -1,0 +1,114 @@
+.nunito {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.dm {
+  font-family: "DM Serif Text", serif;
+}
+
+.color {
+  color: #fff;
+}
+
+.custom-lh {
+  line-height: 0.9;
+}
+
+.fw {
+  font-weight: 300;
+}
+
+.font-small {
+  font-size: 14px;
+}
+
+.font-medium {
+  font-size: 19px;
+}
+
+.font-large {
+  font-size: 21px;
+}
+
+.font-extra-large {
+  font-size: 40px;
+}
+
+.font-hero {
+  font-size: 88px;
+}
+
+
+header {
+  width: 100%;
+  position: relative;
+}
+
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+}
+
+li {
+  font-size: 1.3rem;
+}
+
+.header-overlay h1 span {
+  display: block;
+}
+
+.header-overlay h1 i {
+  display: block;
+}
+
+
+.section-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  cursor: pointer;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.collapse-content {
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.arrow {
+  font-size: 1rem;
+  transition: transform 0.3s;
+}
+
+.collapsed .arrow {
+  transform: rotate(-90deg);
+}
+
+footer {
+  background-color: #a3a58b;
+  padding: 5% 4% 1% 4%;
+}
+
+@media (max-width: 768px) {
+  .font-hero {
+    font-size: 50px;
+  }
+
+  .font-large {
+    font-size: 20px;
+  }
+
+  h4 {
+    font-size: 10px;
+  }
+
+  li {
+    border: none;
+  }
+}
